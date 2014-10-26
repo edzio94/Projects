@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="76517126-d391-41dd-b654-7d909bfc37f0" name="Classes_Driagram" linkedPackageId="55fcf5bf-897c-4690-b3bf-6a4dc55bb9df" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="b071bb08-9143-40eb-9d8f-cc7c3ef5be23">
+      <profileInstance Id="d46ac999-9126-4a60-9d24-6c7e1339f860" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="8d3c8942-7868-451a-b287-630cbb2c7a58">
+      <profileInstance Id="30f46ff0-2ec9-419c-94ea-946b96402c5d" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="0a32bfdc-6bef-4700-9b1d-4cb56b160baa" name="Monster_Base" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="ebb4c807-f937-4b06-99e0-b3ca8423169c" />
+        <ownedAttributesInternal>
+          <property Id="caff5ca6-5a0e-4678-9fd4-87f6d1877458" name="Animation2D anim2D" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="fdab9fa5-2cf5-4d67-be39-a51064de6b68" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="55fcf5bf-897c-4690-b3bf-6a4dc55bb9df" name="Class_UML">
+    <elementDefinition Id="12564f88-ac10-4037-bbbb-ca86e4d804bb" />
+  </package>
+</logicalClassDesignerModel>

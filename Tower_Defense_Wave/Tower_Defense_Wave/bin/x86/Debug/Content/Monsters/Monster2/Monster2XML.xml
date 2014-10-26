@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d01b40f4a2f8d8972a19f688642c5b4b:0b9699d0818724af7c13645d7c821d33:28c0aa63739d868788676a2cad93a6be$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Monster2XML.png" width="200" height="68">
+    <sprite n="Hat_man1.png" x="2" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="Hat_man2.png" x="68" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="Hat_man3.png" x="2" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="Hat_man4.png" x="134" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+</TextureAtlas>

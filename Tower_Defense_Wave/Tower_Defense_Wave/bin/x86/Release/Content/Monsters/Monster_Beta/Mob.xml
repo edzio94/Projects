@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3e423f378cb8d7760c4774213348ff4c:9fda7c73913e32dceb2cba857664b55e:f3fb3e00bea5b601ede8d799b24ecae1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Mob.png" width="64" height="128">
+    <sprite n="1.png" x="2" y="2" w="30" h="32" oX="0" oY="0" oW="32" oH="32"/>
+    <sprite n="2.png" x="2" y="36" w="30" h="32" oX="2" oY="0" oW="32" oH="32"/>
+    <sprite n="3.png" x="34" y="36" w="28" h="30" oX="4" oY="1" oW="32" oH="32"/>
+    <sprite n="4.png" x="2" y="70" w="28" h="30" oX="2" oY="1" oW="32" oH="32"/>
+</TextureAtlas>

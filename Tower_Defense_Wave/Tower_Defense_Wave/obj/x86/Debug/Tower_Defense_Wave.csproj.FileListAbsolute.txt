@@ -1,0 +1,237 @@
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_Wave.exe
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_Wave.pdb
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_WaveProject.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Common.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Framework.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D11.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DXGI.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D9.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\AForge.Video.DirectShow.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.Video.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\NAudio.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DirectInput.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XInput.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XAudio2.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Physics.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Zlib.Portable.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\AForge.Video.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Bepu.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\FarseerPhysics.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_WaveProject.pdb
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Common.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Framework.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D11.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DXGI.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D9.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DirectInput.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XInput.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XAudio2.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Physics.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Bepu.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\FarseerPhysics.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.csprojResolveAssemblyReference.cache
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.exe
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.pdb
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] prosta.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w dol.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w lewo.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w lewo_reverse.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w prawo.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w prawo_reverse.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Components.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Materials.dll
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Components.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Materials.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] test.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] prosta.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w dol.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w lewo.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w lewo_reverse.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w prawo.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w prawo_reverse.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] test.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster_Beta\Mob.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster_Beta\Mob.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\step1.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski2.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\kox.mp3
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\step1.wav
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski.wav
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski2.wav
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[FIELD] bush.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[FIELD] bush.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Tower1_Sprite.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Bar_Background.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Beta\Tower1.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Beta\Ammo1.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\Lives.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\Money.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Chandler_Icon.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Chandler\Chandler_tower.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Chandler\whip_chandler.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster2\Monster2XML.xml
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster2\Monster2XML.wpk
+G:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\ClockSprite.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster_Beta\Mob.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski.wav
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski2.wav
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\step1.wav
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\Lives.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\Money.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] test.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] prosta.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w dol.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w lewo.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w lewo_reverse.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w prawo.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w prawo_reverse.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[FIELD] bush.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[FIELD] bush.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] prosta.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] test.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w dol.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w lewo.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w lewo_reverse.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w prawo.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w prawo_reverse.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster_Beta\Mob.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Beta\Ammo1.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Beta\Tower1.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Chandler\Chandler_tower.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster2\Monster2XML.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\kox.mp3
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\ClockSprite.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster2\Monster2XML.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski2.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\step1.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Chandler_Icon.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Tower1_Sprite.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Bar_Background.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Chandler\whip_chandler.wpk
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_Wave.exe
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_Wave.pdb
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_WaveProject.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Common.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Framework.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Components.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D11.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DXGI.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D9.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\AForge.Video.DirectShow.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.Video.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\NAudio.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DirectInput.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XInput.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XAudio2.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Physics.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Zlib.Portable.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Materials.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\AForge.Video.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Bepu.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\FarseerPhysics.dll
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_WaveProject.pdb
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Common.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Framework.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Components.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D11.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DXGI.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D9.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DirectInput.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XInput.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XAudio2.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Physics.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Materials.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Bepu.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\FarseerPhysics.xml
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.csprojResolveAssemblyReference.cache
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.exe
+d:\Projects\Ed&MesInCorpo\Tower_Defense_Wave\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.pdb
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster_Beta\Mob.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski.wav
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski2.wav
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\step1.wav
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\Lives.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\Money.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] test.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] prosta.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w dol.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w lewo.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w lewo_reverse.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w prawo.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[DROGA] w prawo_reverse.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Map_Beta\[FIELD] bush.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[FIELD] bush.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] prosta.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] test.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w dol.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w lewo.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w lewo_reverse.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w prawo.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Maps\Test\[DROGA] w prawo_reverse.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster_Beta\Mob.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Beta\Ammo1.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Beta\Tower1.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Chandler\Chandler_tower.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster2\Monster2XML.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\kox.mp3
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Layout\ClockSprite.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Monsters\Monster2\Monster2XML.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\meski2.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\Music\Mobs\Mob1\step1.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Chandler_Icon.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Tower1_Sprite.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Other\TowerBar\Bar_Background.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Content\Towers\Tower_Chandler\whip_chandler.wpk
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_Wave.exe
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_Wave.pdb
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_WaveProject.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Common.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Framework.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Components.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D11.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DXGI.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D9.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\AForge.Video.DirectShow.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.Video.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\NAudio.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DirectInput.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XInput.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XAudio2.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Physics.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Zlib.Portable.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Materials.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\AForge.Video.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Bepu.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\FarseerPhysics.dll
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Tower_Defense_WaveProject.pdb
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Adapter.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Common.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Framework.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Components.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D11.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DXGI.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.Direct3D9.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.DirectInput.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XInput.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\SharpDX.XAudio2.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Physics.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\WaveEngine.Materials.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\Bepu.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\bin\x86\Debug\FarseerPhysics.xml
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.csprojResolveAssemblyReference.cache
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.exe
+d:\Projects\TD_Wave_Refactor\Tower_Defense_Wave\Tower_Defense_Wave\obj\x86\Debug\Tower_Defense_Wave.pdb
